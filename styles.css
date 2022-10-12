@@ -1,0 +1,19 @@
+.hex {
+    color: #ff3366;
+    font-weight: bold;
+}
+
+h1 {
+    font-family: Arial;
+}
+
+h3 {
+    font-family: Georgia;
+    font-style: italic;
+    color: rgb(62, 84, 77);
+}
+
+ol {
+    font-family: Arial;
+    font-size: 12px;
+}
