@@ -362,6 +362,7 @@ p {
 
 .RightContent {
 	overflow: auto;
+	background-color: #ffffff;
 }
 
 @media (min-width: 1200px) {
@@ -378,7 +379,7 @@ p {
 }
 
 .background-1 {
-	background-image: url("../img/collage.jpg");
+	background-image: url("../img/collage2.jpg");
 }
 
 .background-2 {
@@ -386,8 +387,8 @@ p {
 }
 
 .split-image-right {
-	padding-top: 2rem;
-	padding-bottom: 2rem;
+	padding-top: 6rem;
+	padding-bottom: 0rem;
 }
 
 .hello {
@@ -397,8 +398,8 @@ p {
 }
 
 .signature {
-	padding-top: 2rem;
-	height: 6rem;
+	padding-top: 0rem;
+	height: 4rem;
 }
 
 
