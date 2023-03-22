@@ -372,7 +372,7 @@ p {
 }
 
 .split-image-left {
-	background-size: cover;
+	background-size: 85vh;
 	background-position: center;
 	background-repeat: no-repeat;
 	height: 100vh;
