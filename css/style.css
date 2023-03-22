@@ -389,6 +389,7 @@ p {
 .split-image-right {
 	padding-top: 6rem;
 	padding-bottom: 0rem;
+	background-position: center;
 }
 
 .hello {
